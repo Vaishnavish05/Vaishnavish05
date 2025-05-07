@@ -35,6 +35,12 @@
 - 🎨 Master Figma & animation libraries for ultra-smooth UIs
 - 📚 Stay consistent on GitHub and contribute to open source
 
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavish05&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
