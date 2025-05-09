@@ -55,5 +55,5 @@
 
 ---
 
-🦄 _“Not just coding for the grades — coding for the *glow-up*.”_
+🦄 _“Learning. Growing. Leading.”_
 
