@@ -49,12 +49,14 @@
 ### 📬 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/vaishnavish05/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--   <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
   <a href="mailto:vaishnavi.sh238@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-🦄 _“Learning. Growing. Leading.”_
+### 🔗 Check out my other projects:
+- Visit my [GitHub repositories](https://github.com/Vaishnavish05?tab=repositories) to explore more!
 
+---
+
+🦄 _“Learning. Growing. Leading.”_
